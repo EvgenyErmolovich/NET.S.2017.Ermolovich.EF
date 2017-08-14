@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\GitHub\NET.S.2017.Kuksov.EntityFramework\Service\bin\Debug\Service.dll
+C:\Users\User\Desktop\GitHub\NET.S.2017.Kuksov.EntityFramework\Service\bin\Debug\Service.pdb
+C:\Users\User\Desktop\GitHub\NET.S.2017.Kuksov.EntityFramework\Service\bin\Debug\Product.dll
+C:\Users\User\Desktop\GitHub\NET.S.2017.Kuksov.EntityFramework\Service\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\GitHub\NET.S.2017.Kuksov.EntityFramework\Service\bin\Debug\Product.pdb
+C:\Users\User\Desktop\GitHub\NET.S.2017.Kuksov.EntityFramework\Service\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\GitHub\NET.S.2017.Kuksov.EntityFramework\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\GitHub\NET.S.2017.Kuksov.EntityFramework\Service\obj\Debug\Service.dll
+C:\Users\User\Desktop\GitHub\NET.S.2017.Kuksov.EntityFramework\Service\obj\Debug\Service.pdb
